@@ -7,7 +7,7 @@ excerpt: ''
 date: 2022-01-11
 venue: 'Cell Reports'
 paperurl: 'http://Lin-K76.github.io/files/2022-subcellular.pdf'
-citation: 'Hobson, B. D., Kong, L., Angelo, M. F., Lieberman, O. J., Mosharov, E. V., Herzog, E., Sulzer, D., & Sims, P. A. (2022). Subcellular and regional localization of mRNA translation in midbrain dopamine neurons. Cell Reports, 38(2) (Cell Rep). https://doi.org/10.1016/j.celrep.2021.110208'
+citation: 'Hobson, B. D., <strong>Kong, L.</strong>, Angelo, M. F., Lieberman, O. J., Mosharov, E. V., Herzog, E., Sulzer, D., & Sims, P. A. (2022). Subcellular and regional localization of mRNA translation in midbrain dopamine neurons. Cell Reports, 38(2) (Cell Rep). https://doi.org/10.1016/j.celrep.2021.110208'
 ---
 
 
