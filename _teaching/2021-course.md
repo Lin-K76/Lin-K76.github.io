@@ -7,6 +7,7 @@ venue: "Columbia University, Computer Science Department"
 date: 2021-01-01
 dateend: 2022-05-01
 location: "New York, NY, USA"
+excerpt: ''
 ---
 
 ### COMS W4701 Artificial Intelligence
