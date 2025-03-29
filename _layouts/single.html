@@ -34,24 +34,24 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-            {% if post.preprint %}
-              <p>Preprint on <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% if page.collection == 'teaching' %}
+          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == 'publications' %}
+            {% if page.preprint %}
+              <p>Preprint on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
-                {% if post.isconf %}
-                  {% if post.special %}
-                    <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong> {{ post.special }}</p>
+                {% if page.isconf %}
+                  {% if page.special %}
+                    <p>Published in <strong><i>{{ page.venue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong> {{ page.special }}</p>
                   {% else %}
-                    <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
+                    <p>Published in <strong><i>{{ page.venue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
                   {% endif %}
                 {% else %}
-                  <p>Published in <strong><i>{{ post.venue }}</i></strong>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+                  <p>Published in <strong><i>{{ page.venue }}</i></strong>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
                 {% endif %}
             {% endif %}
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% elsif page.date %}
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}  
         </header>
       {% endunless %}
