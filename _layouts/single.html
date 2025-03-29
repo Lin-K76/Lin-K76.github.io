@@ -35,7 +35,11 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if page.dateend == 'present' %}
+            <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B" }} {{ page.date | default: "1900-01-01" | date: "%Y" }} &mdash; Present </p>
+          {% else %}
+            <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%B" }} {{ page.date | default: "1900-01-01" | date: "%Y" }} &mdash; {{ page.dateend | default: "1900-01-01" | date: "%B" }} {{ page.dateend | default: "1900-01-01" | date: "%Y" }} </p>
+          {% endif %}
         {% elsif page.collection == 'publications' %}
             {% if page.preprint %}
               <p>Preprint on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
