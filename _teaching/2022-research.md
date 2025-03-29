@@ -7,15 +7,12 @@ venue: "MIT, Department of Electrical Engineering and Computer Science"
 date: 2022-12-01
 dateend: 'present'
 location: "Boston, MA, USA"
+excerpt: 'Mentoring undergraduate students to conduct research in mechanistic interpretability, model efficiency, and connectomics.'
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Mentoring undergraduate students to conduct research in mechanistic interpretability, model efficiency, and connectomics.
 
-Heading 1
-======
+## Graduated Mentees:
 
-Heading 2
-======
-
-Heading 3
-======
+- Heidi Durresi, now PhD candidate at MIT &mdash; September 2023 to September 2024
+- Neehal Tumma, now PhD candidate at MIT &mdash; December 2022 to May 2024
