@@ -7,6 +7,7 @@ excerpt: ''
 date: 2025-04-01
 isconf: true
 venue: 'ICLR'
+fullvenue: 'The 13th International Conference on Learning Representations (ICLR 2025)'
 special: 'as a <strong>Spotlight Presentation</strong>'
 paperurl: 'https://openreview.net/forum?id=cnKhHxN3xj'
 authors: 'Shashata Sawmya*, <strong>Linghao Kong*</strong>, Ilia Markov, Dan Alistarh, & Nir N. Shavit'
