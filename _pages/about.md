@@ -14,10 +14,10 @@ I am curious about how computation arises on the scale of individual or small gr
 News
 ======
 
-- March 2025: I gave a talk on my work <i>Wasserstein distances, neuronal entanglement, and sparsity</i> at <strong>Red Hat</strong> in Cambridge
-- January 2025: My work <i>Wasserstein distances, neuronal entanglement, and sparsity</i> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
+- March 2025: I gave a talk on my work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> at <strong>Red Hat</strong> in Cambridge
+- January 2025: My work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
 - October 2024: I was selected as a <strong>[Cerebras Research Fellow](https://www.cerebras.ai/fellows)</strong>
-- May 2024: I received my SM from MIT EECS on [Sparse Expansion and neuronal disentanglement](https://dspace.mit.edu/bitstream/handle/1721.1/156287/kong-linghao-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y)
+- May 2024: I received my <strong>SM</strong> from MIT EECS on <strong><i>[Sparse Expansion and neuronal disentanglement](https://dspace.mit.edu/bitstream/handle/1721.1/156287/kong-linghao-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y)</i></strong>
 - April 2024: I received an <i>Honorable Mention</i> from the NSF GFRP
 
 Selected Works  
