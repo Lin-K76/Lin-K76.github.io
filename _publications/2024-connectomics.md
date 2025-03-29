@@ -9,7 +9,7 @@ date: 2024-05-26
 venue: 'bioRxiv'
 selected: true
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.05.24.595837v2'
-authors: 'Neehal Tumma*, <strong>Linghao Kong*†</strong>, Shashata Sawmya, Tony T. Wang, & Nir N. Shavit'
+authors: 'Neehal Tumma*, <strong>Linghao Kong*†</strong>, Shashata Sawmya, Tony T. Wang, & Nir N. Shavit†'
 citation: 'Tumma, N.*, <strong>Kong, L.*†</strong>, Sawmya, S., Wang, T. T., & Shavit, N. N.† (2024). A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex. bioRxiv preprint. https://www.biorxiv.org/content/10.1101/2024.05.24.595837v1'
 ---
 
