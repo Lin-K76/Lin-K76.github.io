@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-            {% if post.pageend == 'present' %}
+            {% if post.dateend == 'present' %}
               <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B" }} {{ post.date | default: "1900-01-01" | date: "%Y" }} &mdash; Present </p>
             {% else %}
               <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B" }} {{ post.date | default: "1900-01-01" | date: "%Y" }} &mdash; {{ post.dateend | default: "1900-01-01" | date: "%B" }} {{ post.dateend | default: "1900-01-01" | date: "%Y" }} </p>
