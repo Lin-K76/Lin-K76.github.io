@@ -42,9 +42,9 @@ layout: default
             {% else %}
                 {% if page.isconf %}
                   {% if page.special %}
-                    <p>Published in <strong><i>{{ page.fullvenue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong> {{ page.special }}</p>
+                    <p>Published in <strong><i>{{ page.fullvenue }} </i></strong> {{ page.special }}</p>
                   {% else %}
-                    <p>Published in <strong><i>{{ page.fullvenue }} {{ page.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
+                    <p>Published in <strong><i>{{ page.fullvenue }} </i></strong></p>
                   {% endif %}
                 {% else %}
                   <p>Published in <strong><i>{{ page.venue }}</i></strong>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
