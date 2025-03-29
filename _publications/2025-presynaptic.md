@@ -8,6 +8,7 @@ date: 2025-03-27
 isconf: true
 venue: 'COSYNE'
 fullvenue: 'Computational and Systems Neuroscience (COSYNE 2025)'
+selected: true
 paperurl: 'https://shavitlab.csail.mit.edu/papers/Input-Synchrony-V1.pdf'
 authors: '<strong>Linghao Kong*</strong>, Heidi Durresi*, Lu Mi, & Nir N. Shavit'
 citation: '<strong>Kong, L.*</strong>, Durresi, H.*, Mi, L., & Shavit, N. N. (2025, March). Presynaptic input synchrony at scale [Poster presentation]. Computational and Systems Neuroscience (COSYNE 2025), Montreal, QC, Canada.'
