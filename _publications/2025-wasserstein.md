@@ -9,6 +9,7 @@ isconf: true
 venue: 'ICLR'
 special: 'as a <strong>Spotlight Presentation</strong>'
 paperurl: 'https://openreview.net/forum?id=cnKhHxN3xj'
+authors: 'Shashata Sawmya*, <strong>Linghao Kong*</strong>, Ilia Markov, Dan Alistarh, & Nir N. Shavit'
 citation: 'Sawmya, S.*, <strong>Kong, L.*</strong>, Markov, I., Alistarh, D., & Shavit, N. N. (2025). Wasserstein distances, neuronal entanglement, and sparsity. The 13th International Conference on Learning Representations (ICLR 2025, Spotlight Presentation). https://openreview.net/pdf?id=cnKhHxN3xj'
 ---
 
