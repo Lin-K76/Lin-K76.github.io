@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Linghao Kong's Personal Website"
+title                    : "Linghao Kong"
 title_separator          : "-"
 name                     : &name "Linghao Kong"
 description              : &description "Linghao Kong's Personal Website"
