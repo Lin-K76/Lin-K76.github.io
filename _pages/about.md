@@ -14,6 +14,7 @@ I am curious about how computation arises on the scale of individual or small gr
 News
 ======
 
+- May 2025: My work <strong><i>A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex</i></strong> was accepted for publication in the journal <strong>Neural Networks</strong>
 - March 2025: I gave a talk on my work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> at <strong>Red Hat</strong> in Cambridge
 - January 2025: My work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
 - October 2024: I was selected as a <strong>[Cerebras Research Fellow](https://www.cerebras.ai/fellows)</strong>
