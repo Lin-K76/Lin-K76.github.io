@@ -43,6 +43,8 @@ layout: default
         {% elsif page.collection == 'publications' %}
             {% if page.preprint %}
               <p>Preprint on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+            {% elsif page.accepted %}
+              <p>Accepted for publication in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
                 {% if page.isconf %}
                   {% if page.special %}
