@@ -15,7 +15,7 @@ Mentoring undergraduate students to conduct research in mechanistic interpretabi
 ## Graduated Mentees:
 
 - Heidi Durresi, now PhD candidate at MIT &mdash; September 2023 to September 2024[^2025-presynaptic]
-  _Co-author on_ XYZ
+  _Co-author on_ [Presynaptic input synchrony at scale](https://lin-k76.github.io/publication/2025-presynaptic)
 - Neehal Tumma, now PhD candidate at MIT &mdash; December 2022 to May 2024[^2025-connectomics]
 
 [^2025-presynaptic]: Co-author on [Presynaptic input synchrony at scale](https://lin-k76.github.io/publication/2025-presynaptic)
