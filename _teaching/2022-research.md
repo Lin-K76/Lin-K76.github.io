@@ -14,10 +14,8 @@ Mentoring undergraduate students to conduct research in mechanistic interpretabi
 
 ## Graduated Mentees:
 
-- Heidi Durresi, now PhD candidate at MIT &mdash; September 2023 to September 2024
-
+- Heidi Durresi, now PhD candidate at MIT &mdash; September 2023 to September 2024<br>
   _Co-author on_ [Presynaptic input synchrony at scale](/publication/2025-presynaptic)
 
-- Neehal Tumma, now PhD candidate at MIT &mdash; December 2022 to May 2024
-
+- Neehal Tumma, now PhD candidate at MIT &mdash; December 2022 to May 2024<br>
   _Co-author on_ [A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex](/publication/2025-connectomics)
