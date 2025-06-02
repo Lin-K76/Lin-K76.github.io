@@ -3,7 +3,7 @@ title: "A connectomics-driven analysis reveals novel characterization of border 
 accepted: true
 collection: publications
 category: manuscripts
-permalink: /publication/2024-connectomics
+permalink: /publication/2025-connectomics
 excerpt: ''
 date: 2025-05-26
 venue: 'Neural Networks'
