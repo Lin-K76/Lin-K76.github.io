@@ -51,13 +51,20 @@
               <p>Accepted for publication in <strong><i>{{ post.venue }}</i></strong>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
                 {% if post.isconf %}
-                  {% if post.special %}
-                    <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong> {{ post.special }}</p>
-                  {% elsif post.workshop %}
-                    <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }} Workshop {{ post.workshop }}</i></strong></p>
+                  {% if post.category == 'conferences' %}
+                    {% if post.workshop %}
+                      <p>Presented at <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }} Workshop {{ post.workshop }}</i></strong></p>
+                    {% else %}
+                      <p>Presented at <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
+                    {% endif %}
                   {% else %}
-                    <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
-                  {% endif %}
+                    {% if post.special %}
+                      <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong> {{ post.special }}</p>
+                    {% elsif post.workshop %}
+                      <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }} Workshop {{ post.workshop }}</i></strong></p>
+                    {% else %}
+                      <p>Published in <strong><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></strong></p>
+                    {% endif %}
                 {% else %}
                   <p>Published in <strong><i>{{ post.venue }}</i></strong>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
                 {% endif %}

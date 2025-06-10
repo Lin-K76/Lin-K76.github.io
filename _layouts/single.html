@@ -44,13 +44,17 @@ layout: default
             {% if page.preprint %}
               <p>Preprint on <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% elsif page.accepted %}
-              <p>Accepted for publication in <strong></strong><i>{{ page.venue }}</i></strong>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+              <p>Accepted for publication in <strong><i>{{ page.venue }}</i></strong>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% else %}
                 {% if page.isconf %}
-                  {% if page.special %}
-                    <p>Published in <strong><i>{{ page.fullvenue }} </i></strong> {{ page.special }}</p>
+                  {% if page.category == 'conferences' %}
+                    <p>Presented at <strong><i>{{ page.fullvenue }}</i></strong></p>
                   {% else %}
-                    <p>Published in <strong><i>{{ page.fullvenue }} </i></strong></p>
+                    {% if page.special %}
+                      <p>Published in <strong><i>{{ page.fullvenue }} </i></strong> {{ page.special }}</p>
+                    {% else %}
+                      <p>Published in <strong><i>{{ page.fullvenue }} </i></strong></p>
+                    {% endif %}
                   {% endif %}
                 {% else %}
                   <p>Published in <strong><i>{{ page.venue }}</i></strong>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
