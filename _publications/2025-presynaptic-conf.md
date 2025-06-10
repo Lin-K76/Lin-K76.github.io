@@ -2,7 +2,7 @@
 title: "Presynaptic input synchrony at scale"
 collection: publications
 category: conferences
-permalink: /publication/2025-presynaptic
+permalink: /publication/2025-presynaptic-conf
 excerpt: ''
 date: 2025-03-27
 isconf: true
