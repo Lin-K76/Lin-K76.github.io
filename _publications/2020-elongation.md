@@ -6,7 +6,8 @@ permalink: /publication/2020-elongation
 excerpt: ''
 date: 2020-09-14
 venue: 'eLife'
-paperurl: 'http://Lin-K76.github.io/files/2020-elongation.pdf'
+paperurl: 'https://doi.org/10.7554/eLife.60048'
+biorxiv: 'https://www.biorxiv.org/content/10.1101/2020.06.15.152488v1'
 authors: 'Benjamin D. Hobson, <strong>Linghao Kong</strong>, Erik W. Hartwick, Ruben L. Gonzalez, & Peter A. Sims'
 citation: 'Hobson, B. D., <strong>Kong, L.</strong>, Hartwick, E. W., Gonzalez, R. L., Jr., & Sims, P. A. (2020). Elongation inhibitors do not prevent the release of puromycylated nascent polypeptide chains from ribosomes. eLife 9, e60048 (eLife). https://doi.org/10.7554/eLife.60048'
 ---

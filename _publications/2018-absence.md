@@ -6,7 +6,8 @@ permalink: /publication/2018-absence
 excerpt: ''
 date: 2018-01-29
 venue: 'Biochemical and Biophysical Research Communications'
-paperurl: 'http://Lin-K76.github.io/files/2018-absence.pdf'
+paperurl: 'https://doi.org/10.1016/j.bbrc.2018.01.026'
+biorxiv: 'https://pubmed.ncbi.nlm.nih.gov/29307819/'
 authors: '<strong>Linghao Kong*</strong>, Michael M. Murata*, & Michelle A. Digman'
 citation: '<strong>Kong, L.*</strong>, Murata, M. M.*, & Digman, M. A. (2018). Absence of REV3L promotes p53-regulated cancer cell metabolism in cisplatin-treated lung carcinoma cells. Biochemical and Biophysical Research Communications, 496(1), 199-204 (BBRC). https://doi.org/10.1016/j.bbrc.2018.01.026'
 ---
