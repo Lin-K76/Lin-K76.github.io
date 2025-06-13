@@ -83,19 +83,19 @@
     {% if post.authors and post.paperurl and post.slidesurl %}
       <p>{{ post.authors }}<br />
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">BioRxiv</a>{% endif %}
+        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">bioRxiv</a>{% endif %}
         {% if post.arxiv %} | <a href="{{ post.arxiv }}">arXiv</a>{% endif %}
         {% if post.slidesurl %} | <a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
       </p>
     {% elsif post.authors and post.paperurl %}
       <p>{{ post.authors }}<br />
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">BioRxiv</a>{% endif %}
+        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">bioRxiv</a>{% endif %}
         {% if post.arxiv %} | <a href="{{ post.arxiv }}">arXiv</a>{% endif %}
       </p>
     {% elsif post.authors and post.slidesurl %}
       <p>{{ post.authors }}<br />
-        {% if post.biorxiv %}<a href="{{ post.biorxiv }}">BioRxiv</a>{% endif %}
+        {% if post.biorxiv %}<a href="{{ post.biorxiv }}">bioRxiv</a>{% endif %}
         {% if post.arxiv %}{% if post.biorxiv %} | {% endif %}<a href="{{ post.arxiv }}">arXiv</a>{% endif %}
         {% if post.slidesurl %}{% if post.biorxiv or post.arxiv %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
       </p>
@@ -104,12 +104,12 @@
     {% elsif post.paperurl %}
       <p>
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Download Paper</a>{% endif %}
-        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">BioRxiv</a>{% endif %}
+        {% if post.biorxiv %} | <a href="{{ post.biorxiv }}">bioRxiv</a>{% endif %}
         {% if post.arxiv %} | <a href="{{ post.arxiv }}">arXiv</a>{% endif %}
       </p>
     {% elsif post.slidesurl %}
       <p>
-        {% if post.biorxiv %}<a href="{{ post.biorxiv }}">BioRxiv</a>{% endif %}
+        {% if post.biorxiv %}<a href="{{ post.biorxiv }}">bioRxiv</a>{% endif %}
         {% if post.arxiv %}{% if post.biorxiv %} | {% endif %}<a href="{{ post.arxiv }}">arXiv</a>{% endif %}
         {% if post.slidesurl %}{% if post.biorxiv or post.arxiv %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endif %}
       </p>

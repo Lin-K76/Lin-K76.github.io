@@ -72,19 +72,19 @@ layout: default
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
             {% if page.paperurl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
-            {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">BioRxiv</a>{% endif %}
+            {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %} | <a href="{{ page.arxiv }}">arXiv</a>{% endif %}
             {% if page.slidesurl %} | <a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
           </p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
             {% if page.paperurl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
-            {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">BioRxiv</a>{% endif %}
+            {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %} | <a href="{{ page.arxiv }}">arXiv</a>{% endif %}
           </p>
         {% elsif page.citation and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />
-            {% if page.biorxiv %}<a href="{{ page.biorxiv }}">BioRxiv</a>{% endif %}
+            {% if page.biorxiv %}<a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %}{% if page.biorxiv %} | {% endif %}<a href="{{ page.arxiv }}">arXiv</a>{% endif %}
             {% if page.slidesurl %}{% if page.biorxiv or page.arxiv %} | {% endif %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
           </p>
@@ -92,7 +92,7 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
         {% elsif page.slidesurl %}
           <p style="font-size: smaller">
-            {% if page.biorxiv %}<a href="{{ page.biorxiv }}">BioRxiv</a>{% endif %}
+            {% if page.biorxiv %}<a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %}{% if page.biorxiv %} | {% endif %}<a href="{{ page.arxiv }}">arXiv</a>{% endif %}
             {% if page.slidesurl %}{% if page.biorxiv or page.arxiv %} | {% endif %}<a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
           </p>
