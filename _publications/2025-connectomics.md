@@ -1,11 +1,10 @@
 ---
 title: "A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex"
-accepted: true
 collection: publications
 category: manuscripts
 permalink: /publication/2025-connectomics
 excerpt: ''
-date: 2025-05-26
+date: 2025-06-12
 venue: 'Neural Networks'
 selected: true
 paperurl: 'https://doi.org/10.1016/j.neunet.2025.107688'
