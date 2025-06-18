@@ -4,13 +4,13 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-connectomics
 excerpt: ''
-date: 2025-06-12
+date: 2025-06-18
 venue: 'Neural Networks'
 selected: true
 paperurl: 'https://doi.org/10.1016/j.neunet.2025.107688'
 biorxiv: 'https://www.biorxiv.org/content/10.1101/2024.05.24.595837v2'
 authors: 'Neehal Tumma*, <strong>Linghao Kong*†</strong>, Shashata Sawmya, Tony T. Wang, & Nir N. Shavit†'
-citation: 'Tumma, N.*, <strong>Kong, L.*†</strong>, Sawmya, S., Wang, T. T., & Shavit, N. N.† (2024). A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex. Neural Networks (Neural Netw). In press. https://doi.org/10.1016/j.neunet.2025.107688'
+citation: 'Tumma, N.*, <strong>Kong, L.*†</strong>, Sawmya, S., Wang, T. T., & Shavit, N. N.† (2024). A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex. Neural Networks, 190, 107688 (Neural Netw). In press. https://doi.org/10.1016/j.neunet.2025.107688'
 ---
 
 
