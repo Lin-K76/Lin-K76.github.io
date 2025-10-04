@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am grateful to be under the guidance of Professor [Nir Shavit](https://www.csail.mit.edu/person/nir-shavit) as a member of the [Shavit Lab](https://shavitlab.csail.mit.edu/). Prior to my graduate studies, I received my BA in computer science and in neuroscience from [Columbia University](https://www.columbia.edu/), where I conducted research at the [Peter Sims Lab](https://www.columbia.edu/~pas2182/index.php/home-top.html).
+I am a fourth year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am grateful to be under the guidance of Professor [Nir Shavit](https://www.csail.mit.edu/person/nir-shavit) as a member of the [Shavit Lab](https://shavitlab.csail.mit.edu/). Prior to my graduate studies, I received my BA in computer science and in neuroscience from [Columbia University](https://www.columbia.edu/), where I conducted research at the [Peter Sims Lab](https://www.columbia.edu/~pas2182/index.php/home-top.html).
 
 I am curious about how computation arises on the scale of individual or small groups of neurons in both biological and artificial neural networks. I approach these questions through connectomics and mechanisic interpretability, with the goal of informing more efficient machine learning systems.
 
 News
 ======
 
-- June 2025: My work <strong><i>Input differentiation via negative computation</i></strong> was accepted into <strong>ICML 2025 Workshop HiLD</strong>
+- June 2025: My work <strong><i><a href="/publication/2025-input-workshop">Input differentiation via negative computation</a></i></strong> was accepted into <strong>ICML 2025 Workshop HiLD</strong>
 - May 2025: My work <strong><i>A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex</i></strong> was accepted for publication in the journal <strong>Neural Networks</strong>
 - March 2025: I gave a talk on my work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> at <strong>Red Hat</strong> in Cambridge
 - January 2025: My work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
