@@ -6,6 +6,7 @@ permalink: /publication/2025-negative
 excerpt: ''
 date: 2025-09-29
 venue: 'arXiv'
+preprint: true
 selected: true
 paperurl: 'https://arxiv.org/abs/2509.24198'
 authors: '<strong>Linghao Kong</strong>, Angelina Ning, Micah Adler, & Nir N. Shavit'
