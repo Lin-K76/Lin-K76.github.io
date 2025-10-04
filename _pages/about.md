@@ -15,9 +15,9 @@ News
 ======
 
 - June 2025: My work <strong><i><a href="/publication/2025-input-workshop">Input differentiation via negative computation</a></i></strong> was accepted into <strong>ICML 2025 Workshop HiLD</strong>
-- May 2025: My work <strong><i>A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex</i></strong> was accepted for publication in the journal <strong>Neural Networks</strong>
-- March 2025: I gave a talk on my work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> at <strong>Red Hat</strong> in Cambridge
-- January 2025: My work <strong><i>Wasserstein distances, neuronal entanglement, and sparsity</i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
+- May 2025: My work <strong><i><a href="/publication/2025-connectomics">A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex</a></i></strong> was accepted for publication in the journal <strong>Neural Networks</strong>
+- March 2025: I gave a talk on my work <strong><i><a href="/talks/2025-wasserstein">Wasserstein distances, neuronal entanglement, and sparsity</a></i></strong> at <strong>Red Hat</strong> in Cambridge
+- January 2025: My work <strong><i><a href="/publication/2025-wasserstein">Wasserstein distances, neuronal entanglement, and sparsity</a></i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
 - October 2024: I was selected as a <strong>[Cerebras Research Fellow](https://www.cerebras.ai/fellows)</strong>
 - May 2024: I received my SM from MIT EECS on <strong><i>[Sparse Expansion and neuronal disentanglement](https://dspace.mit.edu/bitstream/handle/1721.1/156287/kong-linghao-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y)</i></strong>
 - April 2024: I received an <i>Honorable Mention</i> from the NSF GFRP
