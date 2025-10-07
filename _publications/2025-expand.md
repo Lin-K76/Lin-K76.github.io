@@ -8,7 +8,7 @@ date: 2025-10-06
 venue: 'arXiv'
 preprint: true
 paperurl: 'https://arxiv.org/abs/2510.04500'
-authors: '<strong>Linghao Kong*</strong>, Inimai Subramanian, Yonadav Shavit, Micah Adler, Dan Alistarh, & Nir N. Shavit'
+authors: '<strong>Linghao Kong*</strong>, Inimai Subramanian*, Yonadav Shavit, Micah Adler, Dan Alistarh, & Nir N. Shavit'
 citation: '<strong>Kong, L.*</strong>, Subramanian, I.*, Shavit, Y., Adler, M., Alistarh, D., & Shavit, N. N. (2025, October). Expand neurons, not parameters. arXiv preprint. https://arxiv.org/abs/2510.04500'
 ---
 
