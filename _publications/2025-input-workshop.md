@@ -9,7 +9,6 @@ isconf: true
 venue: 'ICML'
 workshop: 'HiLD'
 fullvenue: 'The 3rd Workshop on High-dimensional Learning Dynamics at the 42nd International Conference on Machine Learning (ICML 2025 Workshop HiLD)'
-selected: true
 paperurl: 'https://openreview.net/forum?id=D2KBtCqiPp'
 authors: '<strong>Linghao Kong*</strong>, Angelina Ning*, & Nir N. Shavit'
 citation: '<strong>Kong, L.*</strong>, Ning, A.*, & Shavit, N. N. (2025, June). Input differentiation via negative computation [Poster presentation]. The 3rd Workshop on High-dimensional Learning Dynamics at the 42nd International Conference on Machine Learning (ICML 2025 Workshop HiLD), Vancouver, BC, Canada.'
