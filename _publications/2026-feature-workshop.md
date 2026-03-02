@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-feature-workshop
 excerpt: ''
-date: 2025-04-01
+date: 2026-04-01
 isconf: true
 venue: 'ICLR'
 workshop: 'Sci4DL'
