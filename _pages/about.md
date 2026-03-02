@@ -16,6 +16,7 @@ My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab
 News
 ======
 
+- March 2026: My work <strong><i><a href="/publication/2026-feature-workshop">The feature-space alignment hypothesis for neural network sparsity</a></i></strong> was accepted into <strong>ICLR 2026 Workshop Sci4DL</strong>
 - January 2026: My work <strong><i><a href="/publication/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> was accepted into <strong>ICLR 2026</strong>
 - October 2025: I served as the primary author of a proposal selected for an <strong><i><a href="https://mitibmwatsonailab.mit.edu/">IBM AI Research Grant</a></i></strong> to support my PhD research in the Shavit Lab.
 - June 2025: My work <strong><i><a href="/publication/2025-input-workshop">Input differentiation via negative computation</a></i></strong> was accepted into <strong>ICML 2025 Workshop HiLD</strong>
