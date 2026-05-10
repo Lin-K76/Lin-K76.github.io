@@ -16,12 +16,13 @@ My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab
 News
 ======
 
+- April 2026: My work <strong><i><a href="/publication/2026-expand">Expand neurons, not parameters</a></i></strong> was accepted into <strong>ICML 2026</strong>; I gave a talk on my work <strong><i><a href="/publication/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> at <strong>MIT</strong> in Cambridge
 - March 2026: My work <strong><i><a href="/publication/2026-feature-workshop">The feature-space alignment hypothesis for neural network sparsity</a></i></strong> was accepted into <strong>ICLR 2026 Workshop Sci4DL</strong>
 - January 2026: My work <strong><i><a href="/publication/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> was accepted into <strong>ICLR 2026</strong>
-- October 2025: I served as the primary author of a proposal selected for an <strong><i><a href="https://mitibmwatsonailab.mit.edu/">IBM AI Research Grant</a></i></strong> to support my PhD research in the Shavit Lab.
+- October 2025: I served as the primary author of a proposal selected for an <strong><i><a href="https://mitibmwatsonailab.mit.edu/">IBM AI Research Grant</a></i></strong> to support my PhD research in the Shavit Lab
 - June 2025: My work <strong><i><a href="/publication/2025-input-workshop">Input differentiation via negative computation</a></i></strong> was accepted into <strong>ICML 2025 Workshop HiLD</strong>
 - May 2025: My work <strong><i><a href="/publication/2025-connectomics">A connectomics-driven analysis reveals novel characterization of border regions in mouse visual cortex</a></i></strong> was accepted for publication in the journal <strong>Neural Networks</strong>
-- March 2025: I gave a talk on my work <strong><i><a href="/talks/2025-wasserstein">Wasserstein distances, neuronal entanglement, and sparsity</a></i></strong> at <strong>Red Hat</strong> in Cambridge
+- March 2025: I gave a talk on my work <strong><i><a href="/talks/2025-wasserstein">Wasserstein distances, neuronal entanglement, and sparsity</a></i></strong> at <strong>Red Hat</strong> in Boston
 - January 2025: My work <strong><i><a href="/publication/2025-wasserstein">Wasserstein distances, neuronal entanglement, and sparsity</a></i></strong> was accepted into <strong>ICLR 2025</strong> as a <strong>Spotlight Presentation</strong>
 - October 2024: I was selected as a <strong>[Cerebras Research Fellow](https://www.cerebras.ai/fellows)</strong>
 - May 2024: I received my SM from MIT EECS on <strong><i>[Sparse Expansion and neuronal disentanglement](https://dspace.mit.edu/bitstream/handle/1721.1/156287/kong-linghao-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y)</i></strong>
