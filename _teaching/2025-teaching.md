@@ -5,7 +5,7 @@ type: "Teaching Fellow"
 permalink: /teaching/2025-teaching
 venue: "MIT, Department of Electrical Engineering and Computer Science"
 date: 2025-09-01
-dateend: 'present'
+dateend: '2025-12-01'
 location: "Cambridge, MA, USA"
 excerpt: 'Developing problem sets and holding weekly office hours.'
 ---

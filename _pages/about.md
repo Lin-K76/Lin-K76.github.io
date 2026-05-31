@@ -16,6 +16,7 @@ My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab
 News
 ======
 
+- May 2026: A project I advised, <strong><i><a href="/publication/2026-characterizing">Characterizing plastic regions in neural networks</a></i></strong>, was accepted into <strong>ICML 2026 Workshop CATS</strong>
 - April 2026: My work <strong><i><a href="/publication/2026-expand">Expand neurons, not parameters</a></i></strong> was accepted into <strong>ICML 2026</strong>; I gave a talk on my work <strong><i><a href="/talks/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> at <strong>MIT</strong> in Cambridge
 - March 2026: My work <strong><i><a href="/publication/2026-feature-workshop">The feature-space alignment hypothesis for neural network sparsity</a></i></strong> was accepted into <strong>ICLR 2026 Workshop Sci4DL</strong>
 - January 2026: My work <strong><i><a href="/publication/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> was accepted into <strong>ICLR 2026</strong>
