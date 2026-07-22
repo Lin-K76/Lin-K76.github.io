@@ -9,7 +9,9 @@ isconf: true
 venue: 'ICML'
 fullvenue: 'The 43rd International Conference on Machine Learning (ICML 2026)'
 selected: true
-paperurl: 'https://arxiv.org/abs/2510.04500'
+paperurl: 'https://openreview.net/forum?id=cYxavyv2C7'
+arxiv: 'https://arxiv.org/abs/2510.04500'
+code: 'https://github.com/Shavit-Lab/Expand-Neurons'
 authors: '<strong>Linghao Kong*</strong>, Inimai Subramanian*, Yonadav Shavit, Micah Adler, Dan Alistarh, & Nir N. Shavit'
 citation: '<strong>Kong, L.*</strong>, Subramanian, I.*, Shavit, Y., Adler, M., Alistarh, D., & Shavit, N. N. (2026). The 43rd International Conference on Machine Learning (ICML 2026). https://arxiv.org/abs/2510.04500'
 ---

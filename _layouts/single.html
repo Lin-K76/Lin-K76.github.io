@@ -74,6 +74,7 @@ layout: default
             {% if page.paperurl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
             {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %} | <a href="{{ page.arxiv }}">arXiv</a>{% endif %}
+            {% if page.code %} | <a href="{{ page.code }}">Code</a>{% endif %}
             {% if page.slidesurl %} | <a href="{{ page.slidesurl }}">Download Slides</a>{% endif %}
           </p>
         {% elsif page.citation and page.paperurl %}
@@ -81,6 +82,7 @@ layout: default
             {% if page.paperurl %}<a href="{{ page.paperurl }}">Download Paper</a>{% endif %}
             {% if page.biorxiv %} | <a href="{{ page.biorxiv }}">bioRxiv</a>{% endif %}
             {% if page.arxiv %} | <a href="{{ page.arxiv }}">arXiv</a>{% endif %}
+            {% if page.code %} | <a href="{{ page.code }}">Code</a>{% endif %}
           </p>
         {% elsif page.citation and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br />

@@ -11,6 +11,7 @@ fullvenue: 'The 14th International Conference on Learning Representations (ICLR 
 selected: true
 paperurl: 'https://openreview.net/forum?id=RzcCrU0tXP'
 arxiv: 'https://arxiv.org/abs/2509.24198'
+code: 'https://github.com/Shavit-Lab/Negative-Differentiation'
 authors: '<strong>Linghao Kong</strong>, Angelina Ning, Micah Adler, & Nir N. Shavit'
 citation: '<strong>Kong, L.</strong>, Ning, A., Adler, M., & Shavit, N. N. (2026). Negative pre-activations differentiate syntax. The 14th International Conference on Learning Representations (ICLR 2026). https://openreview.net/forum?id=RzcCrU0tXP'
 ---
