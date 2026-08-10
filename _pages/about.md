@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am grateful to be under the guidance of Professor [Nir Shavit](https://www.csail.mit.edu/person/nir-shavit) as a member of the [Shavit Lab](https://shavitlab.csail.mit.edu/). Prior to my graduate studies, I received my BA in computer science and in neuroscience from [Columbia University](https://www.columbia.edu/), where I conducted research at the [Peter Sims Lab](https://www.columbia.edu/~pas2182/index.php/home-top.html).
 
-I am curious about how computation arises on the scale of individual or small groups of neurons in both biological and artificial neural networks. I approach these questions through connectomics and mechanistic interpretability, with the goal of informing more efficient machine learning systems.
+I am curious about the internal mechanisms of large language models, from individual neurons to distributed feature representations, and how they can inform more efficient computation. I use mechanistic interpretability to uncover these principles, motivated by a broader interest in computation across both artificial and biological neural systems.
 
 My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab.mit.edu/).
 
