@@ -9,6 +9,7 @@ venue: 'arXiv'
 preprint: true
 selected: true
 paperurl: 'https://arxiv.org/abs/2608.06630'
+code: 'https://github.com/Shavit-Lab/Whisper'
 authors: '<strong>Linghao Kong</strong>, Inimai Subramanian, Micah Adler, Dan Alistarh, Dan Gutfreund, & Nir N. Shavit'
 citation: '<strong>Kong, L.</strong>, Subramanian, I., Adler, M., Alistarh, D., Gutfreund, D., & Shavit, N. N. (2026, May). The sparsity whisperer. arXiv preprint. https://arxiv.org/abs/2608.06630'
 ---
