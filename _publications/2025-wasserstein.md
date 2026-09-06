@@ -1,5 +1,5 @@
 ---
-title: "Wasserstein distances, neuronal entanglement, and sparsity"
+title: "Wasserstein Distances, Neuronal Entanglement, and Sparsity"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-wasserstein
@@ -14,7 +14,7 @@ paperurl: 'https://openreview.net/forum?id=cnKhHxN3xj'
 arxiv: 'https://arxiv.org/abs/2405.15756'
 code: 'https://github.com/Shavit-Lab/Sparse-Expansion'
 authors: 'Shashata Sawmya*, <strong>Linghao Kong*</strong>, Ilia Markov, Dan Alistarh, & Nir N. Shavit'
-citation: 'Sawmya, S.*, <strong>Kong, L.*</strong>, Markov, I., Alistarh, D., & Shavit, N. N. (2025). Wasserstein distances, neuronal entanglement, and sparsity. The 13th International Conference on Learning Representations (ICLR 2025, Spotlight Presentation). https://openreview.net/pdf?id=cnKhHxN3xj'
+citation: 'Sawmya, S.*, <strong>Kong, L.*</strong>, Markov, I., Alistarh, D., & Shavit, N. N. (2025). Wasserstein Distances, Neuronal Entanglement, and Sparsity. The 13th International Conference on Learning Representations (ICLR 2025, Spotlight Presentation). https://openreview.net/pdf?id=cnKhHxN3xj'
 ---
 
 

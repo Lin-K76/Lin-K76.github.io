@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am grateful to be under the guidance of Professor [Nir Shavit](https://www.csail.mit.edu/person/nir-shavit) as a member of the [Shavit Lab](https://shavitlab.csail.mit.edu/). Prior to my graduate studies, I received my BA in computer science and in neuroscience from [Columbia University](https://www.columbia.edu/), where I conducted research at the [Peter Sims Lab](https://www.columbia.edu/~pas2182/index.php/home-top.html).
+I am a fifth year PhD candidate at [MIT EECS](https://www.eecs.mit.edu/), where I am grateful to be under the guidance of Professor [Nir Shavit](https://www.csail.mit.edu/person/nir-shavit) as a member of the [Shavit Lab](https://shavitlab.csail.mit.edu/). Prior to my graduate studies, I received my BA in computer science and in neuroscience from [Columbia University](https://www.columbia.edu/), where I conducted research at the [Peter Sims Lab](https://www.columbia.edu/~pas2182/index.php/home-top.html).
 
 I am curious about the internal mechanisms of large language models, from individual neurons to distributed feature representations, and how they can inform more efficient computation. I use mechanistic interpretability to uncover these principles, motivated by a broader interest in computation across both artificial and biological neural systems.
 
@@ -16,7 +16,7 @@ My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab
 News
 ======
 
-- August 2026: I led the successful renewal of our <strong><i><a href="https://mitibm.mit.edu/">IBM AI Research Grant</a></i></strong>, building on results from the research plan proposed in the original grant.
+- August 2026: I led the successful renewal of our <strong><i><a href="https://mitibm.mit.edu/">IBM AI Research Grant</a></i></strong>, building on results from the research plan proposed in the original grant. I also participated in the <strong><i><a href="https://bmm.mit.edu/">Brains, Minds, and Machines</a></i></strong> summer course, where I completed a research project on vision-language-action models.
 - May 2026: A project I advised, <strong><i><a href="/publication/2026-characterizing">Characterizing plastic regions in neural networks</a></i></strong>, was accepted into <strong>ICML 2026 Workshop CATS</strong>
 - April 2026: My work <strong><i><a href="/publication/2026-expand">Expand neurons, not parameters</a></i></strong> was accepted into <strong>ICML 2026</strong>; I gave a talk on my work <strong><i><a href="/talks/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> at <strong>MIT</strong> in Cambridge
 - March 2026: My work <strong><i><a href="/publication/2026-feature-workshop">The feature-space alignment hypothesis for neural network sparsity</a></i></strong> was accepted into <strong>ICLR 2026 Workshop Sci4DL</strong>
