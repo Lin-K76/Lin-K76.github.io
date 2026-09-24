@@ -14,6 +14,9 @@ Mentoring undergraduate students to conduct research in mechanistic interpretabi
 
 ## Graduated Mentees:
 
+- Inimai Subramanian, now MEng student at MIT &mdash; April 2024 to September 2026<br>
+  _Co-author on_ [The Sparsity Whisperer](/publication/2026-sparsity) and [Expand Neurons, Not Parameters](/publication/2026-expand)
+
 - Heidi Durresi, now PhD student at MIT &mdash; September 2023 to September 2024<br>
   _Co-author on_ [Presynaptic input synchrony at scale](/publication/2025-presynaptic-conf)
 

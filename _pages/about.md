@@ -16,7 +16,8 @@ My research is supported by an [IBM AI Research Grant](https://mitibmwatsonailab
 News
 ======
 
-- August 2026: I led the successful renewal of our <strong><i><a href="https://mitibm.mit.edu/">IBM AI Research Grant</a></i></strong>, building on results from the research plan proposed in the original grant. I also participated in the <strong><i><a href="https://bmm.mit.edu/">Brains, Minds, and Machines</a></i></strong> summer course, where I completed a research project on vision-language-action models.
+- September 2026: My work <strong><i><a href="/publication/2026-sparsity">The Sparsity Whisperer</a></i></strong> was accepted into <strong>NeurIPS 2026</strong>
+- August 2026: I led the successful renewal of our <strong><i><a href="https://mitibm.mit.edu/">IBM AI Research Grant</a></i></strong>, building on results from the research plan proposed in the original grant. I also participated in the <strong><i><a href="https://bmm.mit.edu/">Brains, Minds, and Machines</a></i></strong> summer course, where I completed a research project on vision-language-action models
 - May 2026: A project I advised, <strong><i><a href="/publication/2026-characterizing">Characterizing Plastic Regions in Neural Networks</a></i></strong>, was accepted into <strong>ICML 2026 Workshop CATS</strong>
 - April 2026: My work <strong><i><a href="/publication/2026-expand">Expand Neurons, Not Parameters</a></i></strong> was accepted into <strong>ICML 2026</strong>; I gave a talk on my work <strong><i><a href="/talks/2026-negative">Negative pre-activations differentiate syntax</a></i></strong> at <strong>MIT</strong> in Cambridge
 - March 2026: My work <strong><i><a href="/publication/2026-feature-workshop">The Feature-Space Alignment Hypothesis for Neural Network Sparsity</a></i></strong> was accepted into <strong>ICLR 2026 Workshop Sci4DL</strong>
